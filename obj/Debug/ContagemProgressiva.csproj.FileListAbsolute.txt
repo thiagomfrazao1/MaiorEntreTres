@@ -1,0 +1,7 @@
+C:\Users\Thiago\Desktop\Pratica\pratica\ContagemProgressiva\bin\Debug\ContagemProgressiva.exe.config
+C:\Users\Thiago\Desktop\Pratica\pratica\ContagemProgressiva\bin\Debug\ContagemProgressiva.exe
+C:\Users\Thiago\Desktop\Pratica\pratica\ContagemProgressiva\bin\Debug\ContagemProgressiva.pdb
+C:\Users\Thiago\Desktop\Pratica\pratica\ContagemProgressiva\obj\Debug\ContagemProgressiva.csproj.AssemblyReference.cache
+C:\Users\Thiago\Desktop\Pratica\pratica\ContagemProgressiva\obj\Debug\ContagemProgressiva.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Pratica\pratica\ContagemProgressiva\obj\Debug\ContagemProgressiva.exe
+C:\Users\Thiago\Desktop\Pratica\pratica\ContagemProgressiva\obj\Debug\ContagemProgressiva.pdb
